@@ -1,0 +1,132 @@
+
+/* Class = "UINavigationItem"; title = "상세정보"; ObjectID = "27j-P8-Mwz"; */
+"27j-P8-Mwz.title" = "상세정보";
+
+/* Class = "UITabBarItem"; title = "설정"; ObjectID = "3VN-UA-tLB"; */
+"3VN-UA-tLB.title" = "설정";
+
+/* Class = "UIButton"; configuration.title = "평점순"; ObjectID = "4nb-1I-Uhq"; */
+"4nb-1I-Uhq.configuration.title" = "평점순";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4nb-1I-Uhq"; */
+"4nb-1I-Uhq.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "정렬 순서"; ObjectID = "6WW-3J-mZD"; */
+"6WW-3J-mZD.configuration.title" = "정렬 순서";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6WW-3J-mZD"; */
+"6WW-3J-mZD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "평점"; ObjectID = "7N7-Cz-add"; */
+"7N7-Cz-add.text" = "평점";
+
+/* Class = "UIButton"; configuration.title = "정렬 조건"; ObjectID = "D8G-0t-K5s"; */
+"D8G-0t-K5s.configuration.title" = "정렬 조건";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D8G-0t-K5s"; */
+"D8G-0t-K5s.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "적용하기"; ObjectID = "DDp-kK-vf8"; */
+"DDp-kK-vf8.configuration.title" = "적용하기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DDp-kK-vf8"; */
+"DDp-kK-vf8.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "찜한 영화 목록 🎬"; ObjectID = "DgR-Cj-6n8"; */
+"DgR-Cj-6n8.title" = "찜한 영화 목록 🎬";
+
+/* Class = "UILabel"; text = "정렬 조건"; ObjectID = "Feb-Db-NLj"; */
+"Feb-Db-NLj.text" = "정렬 조건";
+
+/* Class = "UIButton"; configuration.title = "일반정렬"; ObjectID = "HKf-rC-G0a"; */
+"HKf-rC-G0a.configuration.title" = "일반정렬";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HKf-rC-G0a"; */
+"HKf-rC-G0a.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2022.01.01"; ObjectID = "Jn2-PU-lGH"; */
+"Jn2-PU-lGH.text" = "2022.01.01";
+
+/* Class = "UILabel"; text = "닉 네 임"; ObjectID = "KTe-Ja-OfG"; */
+"KTe-Ja-OfG.text" = "닉 네 임";
+
+/* Class = "UITextField"; text = "닉 네 임"; ObjectID = "Lu6-Qw-LG1"; */
+"Lu6-Qw-LG1.text" = "닉 네 임";
+
+/* Class = "UINavigationItem"; title = "인기 영화 목록 🎬"; ObjectID = "QTv-Rd-cD5"; */
+"QTv-Rd-cD5.title" = "인기 영화 목록 🎬";
+
+/* Class = "UILabel"; text = "상세조건"; ObjectID = "R3H-b0-oac"; */
+"R3H-b0-oac.text" = "상세조건";
+
+/* Class = "UIButton"; configuration.title = "앱 정보"; ObjectID = "Rfr-2y-0Ox"; */
+"Rfr-2y-0Ox.configuration.title" = "앱 정보";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Rfr-2y-0Ox"; */
+"Rfr-2y-0Ox.normalTitle" = "Button";
+
+/* Class = "UISearchBar"; placeholder = "영화 검색"; ObjectID = "Voi-zK-h3e"; */
+"Voi-zK-h3e.placeholder" = "영화 검색";
+
+/* Class = "UIButton"; configuration.title = "역순정렬"; ObjectID = "WCv-FP-WSp"; */
+"WCv-FP-WSp.configuration.title" = "역순정렬";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WCv-FP-WSp"; */
+"WCv-FP-WSp.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "수정"; ObjectID = "WzK-cg-1HN"; */
+"WzK-cg-1HN.title" = "수정";
+
+/* Class = "UILabel"; text = "개봉일"; ObjectID = "bXM-5E-jb2"; */
+"bXM-5E-jb2.text" = "개봉일";
+
+/* Class = "UIBarButtonItem"; title = "완료"; ObjectID = "bmI-zW-8I8"; */
+"bmI-zW-8I8.title" = "완료";
+
+/* Class = "UIButton"; configuration.title = "초기화"; ObjectID = "e2i-Qv-98a"; */
+"e2i-Qv-98a.configuration.title" = "초기화";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "e2i-Qv-98a"; */
+"e2i-Qv-98a.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "overview"; ObjectID = "hzl-vE-dC8"; */
+"hzl-vE-dC8.text" = "overview";
+
+/* Class = "UITabBarItem"; title = "인기 영화"; ObjectID = "isa-cK-to6"; */
+"isa-cK-to6.title" = "인기 영화";
+
+/* Class = "UIButton"; configuration.title = "x"; ObjectID = "jy6-RN-SfZ"; */
+"jy6-RN-SfZ.configuration.title" = "x";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jy6-RN-SfZ"; */
+"jy6-RN-SfZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "문의 하기"; ObjectID = "mBK-0N-ahC"; */
+"mBK-0N-ahC.configuration.title" = "문의 하기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mBK-0N-ahC"; */
+"mBK-0N-ahC.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "찜한 영화"; ObjectID = "nee-4v-ruv"; */
+"nee-4v-ruv.title" = "찜한 영화";
+
+/* Class = "UIButton"; configuration.title = "제목순"; ObjectID = "qHc-E5-JGW"; */
+"qHc-E5-JGW.configuration.title" = "제목순";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qHc-E5-JGW"; */
+"qHc-E5-JGW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "정렬 순서"; ObjectID = "qsW-ok-lKF"; */
+"qsW-ok-lKF.text" = "정렬 순서";
+
+/* Class = "UILabel"; text = "줄거리"; ObjectID = "u6B-zE-5B5"; */
+"u6B-zE-5B5.text" = "줄거리";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "uqf-sc-057"; */
+"uqf-sc-057.text" = "0.0";
+
+/* Class = "UILabel"; text = "영화 제목"; ObjectID = "y5B-Ep-Bb6"; */
+"y5B-Ep-Bb6.text" = "영화 제목";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zoD-6j-zBa"; */
+"zoD-6j-zBa.normalTitle" = "Button";
